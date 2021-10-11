@@ -68,7 +68,7 @@ padding: 20px;
 
 /* hero tags */
 #hero{
-    background: url("/IMAGE/qwert.jfif"); 
+    background: url("../IMAGE/qwert.jfif"); 
     height: 600px;
 }
 #hero .hero-content {
